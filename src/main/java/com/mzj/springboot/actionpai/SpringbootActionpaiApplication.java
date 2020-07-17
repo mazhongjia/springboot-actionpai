@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootActionpaiApplication {
+gpublic class SpringbootActionpaiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootActionpaiApplication.class, args);
